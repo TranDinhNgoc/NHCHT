@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Quản lý Ngân hàng Câu hỏi Thi",
+  "description": "Ứng dụng hỗ trợ quản lý quy trình biên soạn, thẩm định và quyết toán Ngân hàng câu hỏi thi (NHCHT) theo kế hoạch khung.",
+  "requestFramePermissions": []
+}
